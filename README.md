@@ -9,7 +9,7 @@ A simple dice game built to practice DOM manipulation. It sllows to roll dice, s
 
 -- HTML, CSS, JavaScript
 
-##Contributors
+## Contributors
 
 <a href="https://github.com/julia-ediamond">
   <img src="https://github.com/julia-ediamond.png" alt="Iulia Sharnina" width="100"/>
