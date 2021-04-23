@@ -3,7 +3,7 @@
 
 # pig-game
 
-A simple dice game built to practice DOM manipulation. It sllows to roll dice, switch players, and hold current score. The game uses prewritten CSS styles and HTML. It was written as a learning project for studying purposes through the Udemy course - The Complete JavaScript course by Jonas Schmedtman. 
+A simple dice game built to practice DOM manipulation. It sllows to roll dice, switch players, hold current score, start new game. The game uses prewritten CSS styles and HTML. It was written as a learning project for studying purposes through the Udemy course - The Complete JavaScript course by Jonas Schmedtman. 
 
 ## Technologies
 
